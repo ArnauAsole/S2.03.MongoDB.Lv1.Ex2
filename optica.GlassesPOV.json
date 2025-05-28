@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "6836e4a37fc6130f5eb7760d"
+  },
+  "Brand": "Rayban",
+  "Graduation": {
+    "Left": 2.3,
+    "Right": 2
+  },
+  "GlassColor": {
+    "Left": "no color",
+    "Right": "no color"
+  },
+  "FrameType": "Metallic",
+  "FrameColor": "Silver",
+  "Price": 127,
+  "Provider": {
+    "Name": "OpticSupply Inc.",
+    "Address": {
+      "Street": "Glass Road",
+      "Number": "42",
+      "Floor": "2",
+      "Door": "B",
+      "City": "Barcelona",
+      "PostalCode": "08001",
+      "Country": "Spain"
+    },
+    "Phone": "+34 931234567",
+    "Fax": "+34 931234568",
+    "NIF": "B12345678"
+  },
+  "Sold": {
+    "Client": {
+      "Name": "Arnau",
+      "Email": "email@email.com"
+    },
+    "Employee": {
+      "Name": "Clara López"
+    },
+    "DateTime": "2023-09-23T15:42:00"
+  }
+}]
